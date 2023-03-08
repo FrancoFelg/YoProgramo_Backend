@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9583e1b-c75b-4716-ade8-4f9ea5b445c6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mgb/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mgb/src/main/resources/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="9ab0f5be-09a1-48fa-a148-814902cc4fb1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
@@ -34,8 +31,8 @@
     </option>
     <option name="myId2Visible">
       <map>
-        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
-        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
         <entry key="com.haulmont.jpb.jpaStructure" value="true" />
       </map>
     </option>
@@ -51,7 +48,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectId" id="2KY2JwR5apqRETDpipzvuxwwDaQ" />
+  <component name="ProjectId" id="2LVCDRzRSBrvokGTaXpidEdhsPd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -64,8 +61,7 @@
     "last_opened_file_path": "C:/websites/YoProgramo_Backend",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="RunManager">
@@ -91,26 +87,23 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d9583e1b-c75b-4716-ade8-4f9ea5b445c6" name="Changes" comment="" />
-      <created>1674137128534</created>
+      <changelist id="9ab0f5be-09a1-48fa-a148-814902cc4fb1" name="Changes" comment="" />
+      <created>1675946744422</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1674137128534</updated>
+      <updated>1675946744422</updated>
     </task>
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <breakpoint enabled="true" type="java-exception">
-          <properties class="java.sql.SQLNonTransientConnectionException" package="java.sql" />
-          <option name="timeStamp" value="1" />
-        </breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
