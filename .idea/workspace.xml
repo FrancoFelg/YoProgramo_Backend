@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ab0f5be-09a1-48fa-a148-814902cc4fb1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/portfolio/mgb/Controller/PersonaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/portfolio/mgb/Controller/PersonaController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/portfolio/mgb/Entity/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/portfolio/mgb/Entity/Persona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/portfolio/mgb/Interface/IPersonaService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/portfolio/mgb/Repository/IPersonaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/portfolio/mgb/Repository/IPersonaRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/portfolio/mgb/Service/ImpPersonaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/portfolio/mgb/Service/ImpPersonaService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="9ab0f5be-09a1-48fa-a148-814902cc4fb1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
