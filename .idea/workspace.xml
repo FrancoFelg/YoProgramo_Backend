@@ -7,9 +7,16 @@
     <list default="true" id="9ab0f5be-09a1-48fa-a148-814902cc4fb1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/portfolio/mgb/Controller/CEducacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/portfolio/mgb/Controller/CEducacion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/portfolio/mgb/Controller/CExperiencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/portfolio/mgb/Controller/CExperiencia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/portfolio/mgb/Controller/Chys.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/portfolio/mgb/Controller/Chys.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/portfolio/mgb/Controller/PersonaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/portfolio/mgb/Controller/PersonaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/portfolio/mgb/Controller/ProyectoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/portfolio/mgb/Controller/ProyectoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/portfolio/mgb/Security/Controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/portfolio/mgb/Security/Controller/AuthController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/portfolio/mgb/Controller/CEducacion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/portfolio/mgb/Controller/CEducacion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/portfolio/mgb/Controller/CExperiencia.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/portfolio/mgb/Controller/CExperiencia.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/portfolio/mgb/Controller/Chys.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/portfolio/mgb/Controller/Chys.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/portfolio/mgb/Controller/PersonaController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/portfolio/mgb/Controller/PersonaController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/portfolio/mgb/Controller/ProyectoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/portfolio/mgb/Controller/ProyectoController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.portfolio.mgb.MgbApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.portfolio.mgb.MgbApplicationTests.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.portfolio.mgb.MgbApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.portfolio.mgb.MgbApplicationTests.txt" afterDir="false" />
     </list>

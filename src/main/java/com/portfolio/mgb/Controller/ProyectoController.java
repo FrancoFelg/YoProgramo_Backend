@@ -14,7 +14,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("proyectos")
-@CrossOrigin("http://localhost:4200")
+@CrossOrigin(origins = "https://portfolio-frontend-argprog.web.app")
 public class ProyectoController {
 
 
